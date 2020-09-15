@@ -12,15 +12,15 @@
         <li>Data Structures and Algorithms</li>
         <li>Web and Desktop Applications</li>
       </ul>
-      <h3>Preferred programming languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+      <h3>Preferred programming languages</h3>
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=plastic&logo=c-sharp&logoColor=white" /><br />
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E" /><br />
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=plastic&logo=python&logoColor=white" /><br />
         &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=plastic&logo=c%2B%2B" /><br /><br>
-      <a href=""><img src="https://img.shields.io/github/followers/snvc00?style=social" /></a>
-      <a href=""><img src="https://img.shields.io/twitter/follow/snvc00?style=social" /></a>
-      <a href=""><img src="https://img.shields.io/twitch/status/iamsnvc00?style=social" /></a>
-      <a href=""><img src="https://img.shields.io/badge/Santiago-%230077B5.svg?&style=social&logo=linkedin" /></a>
+      <a href="https://github.com/snvc00"><img src="https://img.shields.io/github/followers/snvc00?style=social" /></a>
+      <a href="https://twitter.com/snvc00"><img src="https://img.shields.io/twitter/follow/snvc00?style=social" /></a>
+      <a href="https://www.twitch.tv/iamsnvc00"><img src="https://img.shields.io/twitch/status/iamsnvc00?style=social" /></a>
+      <a href="https://www.linkedin.com/in/santiago-valle-463130194/"><img src="https://img.shields.io/badge/Santiago Valle-%230077B5.svg?&style=social&logo=linkedin" /></a>
       <h5>You are the visitor</h5>
       <img src="https://profile-counter.glitch.me/snvc00/count.svg" />
     </td>
@@ -30,10 +30,15 @@
 <h1>About me <img src="https://media2.giphy.com/media/FEVBXvnC4exOg/giphy.gif?cid=ecf05e474e2wjorbcy7y731rf251qc2icnj050ftnavwuxu0&rid=giphy.gif" height="64" /></h1>
 
 ### :zap: Recent Activity
----
 
 <!--START_SECTION:activity-->
+
+```python
+  print("This area will be filled with GitHub Actions cool stuff")
+```
+
 <!--END_SECTION:activity-->
+
 ---
 
 🔭 I’m currently working on personal projects and contributing to [BlueXolo](https://github.com/IBM/BlueXolo)
