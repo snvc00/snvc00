@@ -28,16 +28,7 @@
 </table>
 
 <h1>About me <img src="https://media2.giphy.com/media/FEVBXvnC4exOg/giphy.gif?cid=ecf05e474e2wjorbcy7y731rf251qc2icnj050ftnavwuxu0&rid=giphy.gif" height="64" /></h1>
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-```python
-  print("This area will be filled with GitHub Actions cool stuff")
-```
-
-<!--END_SECTION:activity-->
+<img src="https://github-readme-stats.vercel.app/api?username=snvc00&&show_icons=true&title_color=121228&icon_color=DC8800&text_color=121228&bg_color=ffffff" />
 
 ---
 
@@ -51,5 +42,6 @@
 
 🎮 My favorite videogame is Sekiro: Shadows Die Twice
 
+---
 <br>
 <p align="center"><img src="https://media1.tenor.com/images/7018f9f68c8979e06291c8b92f887d7f/tenor.gif?itemid=17684069" width="80%" /></p>
