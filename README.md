@@ -27,10 +27,18 @@
   </tr>
 </table>
 
-<h1>About me <img src="https://media2.giphy.com/media/FEVBXvnC4exOg/giphy.gif?cid=ecf05e474e2wjorbcy7y731rf251qc2icnj050ftnavwuxu0&rid=giphy.gif" height="64" /></h1>
-<img src="https://github-readme-stats.vercel.app/api?username=snvc00&&show_icons=true&title_color=121228&icon_color=DC8800&text_color=121228&bg_color=ffffff" />
+<h1>Badges <img src="https://github.com/snvc00/snvc00/blob/master/gifs/m7-cropped.gif" height="64" /></h1>
+<br>
+<img src="https://images.youracclaim.com/size/340x340/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png" height="255" />
 
----
+
+
+<h1>About me <img src="https://media2.giphy.com/media/FEVBXvnC4exOg/giphy.gif?cid=ecf05e474e2wjorbcy7y731rf251qc2icnj050ftnavwuxu0&rid=giphy.gif" height="64" /></h1>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snvc00&&show_icons=true&title_color=121228&icon_color=DC8800&text_color=121228&bg_color=ffffff" />
+</p>
+<br>
 
 🔭 I’m currently working on personal projects and contributing to [BlueXolo](https://github.com/IBM/BlueXolo)
 
