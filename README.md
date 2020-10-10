@@ -1,9 +1,9 @@
-<h1>Welcome    <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="48" /></h1>
+<h1>Welcome <img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" height="24" /> <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" height="24" /> <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" height="24" /> <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="24" /></h1>
 
 <table>
   <tr>
     <td>
-      <img src="https://media2.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif" width="240px" height="auto" />
+      <img src="https://media1.tenor.com/images/8e480491ebf17b9aa285823ed92f7acd/tenor.gif?itemid=18087879" width="300px"  />
     </td>
     <td>
       <h3>Well, here you can find</h3>
@@ -29,7 +29,7 @@
 
 <h1>Badges <img src="https://github.com/snvc00/snvc00/blob/master/gifs/m7-cropped.gif" height="64" /></h1>
 <br>
-<img src="https://images.youracclaim.com/size/340x340/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png" height="255" />
+<img src="https://images.youracclaim.com/size/340x340/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png" height="200" />
 
 
 
